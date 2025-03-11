@@ -117,13 +117,15 @@ chmod +x script.sh
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/37d6897f-243c-4d54-8de5-94a9bbff069f)
 
-Output : 
+![image](https://github.com/user-attachments/assets/886e2da0-20e9-4aee-9d95-ff49b2034739)
 
-![Screenshot 2025-03-07 220629](https://github.com/user-attachments/assets/164ace25-8325-49bc-a88b-e2901782429b)
+![image](https://github.com/user-attachments/assets/800125e2-db71-4106-bba4-3654ed8a2168)
 
-![Screenshot 2025-03-07 221610](https://github.com/user-attachments/assets/57abef06-7c8b-487c-9e06-3fc6fc8a56de)
+![image](https://github.com/user-attachments/assets/80eaea48-c5cd-469d-944a-4c608c6875e4)
 
+![image](https://github.com/user-attachments/assets/65b2acbf-4d79-461f-afce-c729077a3e27)
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
