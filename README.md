@@ -122,15 +122,10 @@ Configuration of Kali Linux on Oracle Virtual Box :
 
 ![image](https://github.com/user-attachments/assets/83f47f18-6b45-4f19-8068-7bb8b1baf013)
 
-![image](https://github.com/user-attachments/assets/37d6897f-243c-4d54-8de5-94a9bbff069f)
+![image](https://github.com/user-attachments/assets/c826c649-a01f-494f-87f7-8e18991d85c8)
 
-![image](https://github.com/user-attachments/assets/886e2da0-20e9-4aee-9d95-ff49b2034739)
+![image](https://github.com/user-attachments/assets/f792e6d3-34b6-4608-b94b-55e636624177)
 
-![image](https://github.com/user-attachments/assets/800125e2-db71-4106-bba4-3654ed8a2168)
-
-![image](https://github.com/user-attachments/assets/80eaea48-c5cd-469d-944a-4c608c6875e4)
-
-![image](https://github.com/user-attachments/assets/65b2acbf-4d79-461f-afce-c729077a3e27)
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
