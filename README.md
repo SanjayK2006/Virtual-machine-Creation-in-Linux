@@ -117,6 +117,11 @@ chmod +x script.sh
 ```
 
 ## OUTPUT
+
+Configuration of Kali Linux on Oracle Virtual Box :
+
+![image](https://github.com/user-attachments/assets/83f47f18-6b45-4f19-8068-7bb8b1baf013)
+
 ![image](https://github.com/user-attachments/assets/37d6897f-243c-4d54-8de5-94a9bbff069f)
 
 ![image](https://github.com/user-attachments/assets/886e2da0-20e9-4aee-9d95-ff49b2034739)
